@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+} 
+body {
+  line-height: 0;
+}
+.container {
+  display:inline-block;
+  border: 1px solid black;
+  width: 896px;
+}
+.element {
+  display: inline-block;
+  width: 149px;
+  height: 149px;
+}
+.black {
+  background-color: black
+}
+.white {
+  background-color: white;
+}
